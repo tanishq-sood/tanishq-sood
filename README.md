@@ -15,7 +15,7 @@ Hi there! 👋<br>I'm Tanishq Sood, a passionate Computer Science and Engineerin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanishq-sood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
